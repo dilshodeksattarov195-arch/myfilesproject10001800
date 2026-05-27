@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvarse",
+        "uuid": 11151000,
+        "checksum": "tvccu9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
